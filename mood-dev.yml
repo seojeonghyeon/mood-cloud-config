@@ -4,3 +4,8 @@ token:
 
 # gateway:
 #   ip: 192.168.0.11
+
+messaging:
+  apiKey: "NCSU6S4DEQBP1YW0"
+  apiSecret: "UE3SBWDNRGNAC3HBJTSN6FNVYQYNGNFO"
+  fromNumber: "07080283359"
