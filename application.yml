@@ -1,0 +1,18 @@
+token:
+  expiration_time: 864000000
+  secret: user_token_default
+
+# gateway:
+#   ip: 192.168.0.11
+
+messaging:
+  apiKey: "NCSU6S4DEQBP1YW0"
+  apiSecret: "UE3SBWDNRGNAC3HBJTSN6FNVYQYNGNFO"
+  fromNumber: "07080283359"
+
+spring:
+  datasource:
+    url: jdbc:mariadb://localhost:3306/mooddb
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: root
+    password: seojh4271098
