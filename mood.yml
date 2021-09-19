@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: user_token_prod
+  secret: mood_user_token_default
 
 # gateway:
 #   ip: 192.168.0.11
@@ -15,4 +15,4 @@ spring:
     url: jdbc:mariadb://localhost:3306/mooddb
     driver-class-name: org.mariadb.jdbc.Driver
     username: root
-    password: seojh4271098
+    password: '{ci}371f0f1df1f56d5d4aacf98bb48dcc259ad8fca9d53831f8a56b7dcd15f27da4'
