@@ -15,4 +15,4 @@ spring:
     url: jdbc:mariadb://localhost:3306/mooddb
     driver-class-name: org.mariadb.jdbc.Driver
     username: root
-    password: '{cipher}AQAUek56SmzP11zgPxCKVb+SCVrYqc4QanC1hyWYp609kGuJAHWxI7OTAEfyETbE26Na/FTSJE2uQ/vQT51iQvsdDhM+j+SZZNt9u6KfXikTyrdKIv8cSdgnhjybTPHBJ5/rcAS+isDrLxkQSFCre8CwQ0BheRbtkdxbR3bzdglXtr3oIhSnkN1pEAaSsE+H2Dygui3ry+lfL2C+fb0pEJI70FqnRm6ohN2kDtM1HLzzDgZVtUDlS2QxIKUGMeOFSq2HUzhZXmFM3GVlQwGHhKGQzfinIbifRzMXKNa2F3Ew7FDHQCrrJ4+wr0rp7dLO55bANO3p1mjA8xJTpvlUnP9+FreberOUDeG2bcryNF5xQGwYXlGoDWUG4rVMUosQVpc='
+    password: 00000000
