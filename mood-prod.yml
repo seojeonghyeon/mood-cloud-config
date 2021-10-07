@@ -2,8 +2,8 @@ token:
   expiration_time: 864000000
   secret: '{cipher}AQAisazxvfkpimwvBrvblF0lDBV/Pr/IKwgJHv0SMKu0hT0hHBOsrmTOjOQsvAw9n8bxedJoSkpVmAi4uvYVmo1Dix+8hqCz3h3l5NNdYpCAPegCztqWO7/Xy4jkgvElZAH2lZRFSZ30IQ7r75ccWexIbig3UszBv2K3PCeLqBr/XzxylZ5JycPxNRZ0a/kHCQiM5Cs2oHKcdKCJ2yZiNn+4hioVfbFA87krkadV9b5K+aOYg96PRbhiknwj+niJC01crai/lu40zv3Dc1DFbtHjq2iWaexw6FjKocJ0DE0zSScCYFr1WRs38W3BC9YaWtcLVP9eeIYlHuC+yHHOMIuKj7vUfF7K2XXXk22JUEwHYUCXzhqnlHEueoNtqXuuou0='
 
-# gateway:
-#   ip: 192.168.0.11
+gateway:
+  ip: 172.18.0.4
 
 messaging:
   apiKey: '{cipher}AQBVonCtZiaIZW0uqL25L+MH7SCv/OhIvZeXDZcLtpN57pWhRbikgMzPBua33JqLhxsL0gAZUW42LBbqdfSUpB9UfayEIn5gy0hjvQX6NrMelYA5ql5sMzEYwS4/WSsFSMzOTZ5+WqFvNzMefKYvx+yVS7n2TRRL2de2YB4UkVW9dcsZPlMBy7LoYlRiU7t90CMui1fYfjDC1Y6nTuJxpAPiIubNaW2WxZHqzzWsiGGsKvmRLo6hMLNRbX28tw7dtUA2sBKd3vPmXho9YHVF+NH2stV8xK3YBaWOB/UXxHhGJ+tv4+Zk/eR+Sg75BRy69VJyEsRWkxm2H86RYaDdC7u2MA8sda0dgUdNlpshe2W67Es64LQYmW75Enfcf6UzWP4/5SHnx9MAZMS3Z9WQP1Z+'
